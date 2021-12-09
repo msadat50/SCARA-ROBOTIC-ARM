@@ -19,6 +19,7 @@ our proof of concept is to get the stepper motor to move
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/stepper%20motor%20coding.PNG?raw=true"  width="400">
 <img src="https://content.instructables.com/ORIG/FCZ/SYJB/KILPM8M6/FCZSYJBKILPM8M6.jpg?auto=webp&frame=1&crop=3:2&width=800&height=1024&fit=bounds&md=8506bf2ea8b90868306c6c65ac28dbab"  width="400">
 <img src="https://content.instructables.com/ORIG/FFH/9C9W/KILPM8LX/FFH9C9WKILPM8LX.jpg?auto=webp&frame=1&crop=3:2&width=400&height=1024&fit=bounds&md=763fae9c38b3aaeae6f0ad4ef051c2bb"> 
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/prototype%20planning.PNG?raw=true" width="400">
 
 [Image credit goes to instructables.com](https://www.instructables.com/DIY-SINGLE-ARM-SCARA-ROBOT/)
                                                                                                                         
