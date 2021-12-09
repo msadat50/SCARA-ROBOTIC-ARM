@@ -8,9 +8,7 @@ How to control the robot movement/ giving them commands?
 ### What are the requirements for this assignment?
 
 The requirements for this project are arduino, stepper motor, servo, pen, wires, drive motor, Acrylic Sheet, battery pack with batteries, and bolts and nuts.
--Could use worm gears that are controlled by a servo with a rod that is rotated by the gear to move up/down
--MG996R servos w/ micro servos so that no pulley or gear system is needed
--Use stepper motor and learn to make it move
+-2 stepper motors control each of the 2 arms, servo will control the height of the pen
 
 ### what is our Proof of concept? 
 our proof of concept is to get the stepper motor to move
