@@ -27,4 +27,4 @@ our proof of concept is to get the stepper motor to move
 
 [single arm scara robot arm](https://github.com/tuenhidiy/SINGLE-ARM-SCARA-ROBOT)
 
-[stepper motor code](Stepper motor coding) 
+[stepper motor code](https://learn.adafruit.com/adafruit-tb6612-h-bridge-dc-stepper-motor-driver-breakout/python-circuitpython) 
