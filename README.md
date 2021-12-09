@@ -2,6 +2,8 @@
 
 We're creating a robotic arm that will write out letters.
 
+### Link to Onshape Document
+
 ### What is the problem you are trying to solve?
 How to control the robot movement/ giving them commands? 
 
