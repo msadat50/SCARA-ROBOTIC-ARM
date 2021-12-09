@@ -12,7 +12,7 @@ The requirements for this project are arduino, stepper motor, servo, pen, wires,
 2 stepper motors control each of the 2 arms, servo will control the height of the pen
 
 ### what is our Proof of concept? 
-our proof of concept is to get the stepper motor to move
+Getting the stepper motor to move 
 
 <img src="https://user-images.githubusercontent.com/71345181/145422560-7b6289ed-d671-443e-8793-d84fbaff4cbd.gif"  height="400">
 
