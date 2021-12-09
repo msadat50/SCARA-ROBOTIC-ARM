@@ -1,6 +1,6 @@
 # SCARA-ROBOTIC-ARM
 
-we're creating a robotic arm that will write out letters.
+We're creating a robotic arm that will write out letters.
 
 ### What is the problem you are trying to solve?
 How to control the robot movement/ giving them commands? 
@@ -24,7 +24,7 @@ Getting the stepper motor to move
 
 [Image credit goes to instructables.com](https://www.instructables.com/DIY-SINGLE-ARM-SCARA-ROBOT/)
                                                                                                                         
-### resources 
+### Resources 
 [Scara robot](https://www.instructables.com/DIY-SINGLE-ARM-SCARA-ROBOT/)
 
 [single arm scara robot arm](https://github.com/tuenhidiy/SINGLE-ARM-SCARA-ROBOT)
