@@ -3,6 +3,7 @@
 We're creating a robotic arm that will write out letters.
 
 ### Link to Onshape Document
+[Onshape Link](https://cvilleschools.onshape.com/documents/61e764f56fafef002ee169bb/w/db2ca47ead6d9adc5cc374b3/e/7a9d3a3022fa10662d8f42b8?renderMode=0&uiState=61b21e949aba4d645b01b5f5)
 
 ### What is the problem you are trying to solve?
 How to control the robot movement/ giving them commands? 
