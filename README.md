@@ -13,6 +13,7 @@ The requirements for this project are arduino, stepper motor, servo, pen, wires,
 
 ### what is our Proof of concept? 
 our proof of concept is to get the stepper motor to move
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71345181/145422560-7b6289ed-d671-443e-8793-d84fbaff4cbd.gif)
 
 ### Images
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/stepper%20motor%20coding.PNG?raw=true"  width="400">
