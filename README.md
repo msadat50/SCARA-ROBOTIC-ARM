@@ -19,6 +19,11 @@ Getting the stepper motor to move
 
 <img src="https://user-images.githubusercontent.com/71345181/145422560-7b6289ed-d671-443e-8793-d84fbaff4cbd.gif"  height="400">
 
+Getting it to move using a prototyping shield
+
+<img src="https://user-images.githubusercontent.com/71345181/146027202-aab4cfcd-78ce-4a46-b694-29e1ab4fe6cd.gif" height="400">
+
+
 ### Images
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/stepper%20motor%20coding.PNG?raw=true"  width="400">
 <img src="https://content.instructables.com/ORIG/FCZ/SYJB/KILPM8M6/FCZSYJBKILPM8M6.jpg?auto=webp&frame=1&crop=3:2&width=800&height=1024&fit=bounds&md=8506bf2ea8b90868306c6c65ac28dbab"  width="400">
