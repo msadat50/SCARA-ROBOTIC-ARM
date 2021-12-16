@@ -31,6 +31,21 @@ Getting it to move using a prototyping shield
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/prototype%20planning.PNG?raw=true" width="400">
 
 [Image credit goes to instructables.com](https://www.instructables.com/DIY-SINGLE-ARM-SCARA-ROBOT/)
+
+### Measurements
+<img src="https://user-images.githubusercontent.com/71345181/146391362-ea3e2e10-6ca4-4d4d-a343-76ab9676035a.png" height="400">
+
+<img src="https://user-images.githubusercontent.com/71345181/146391957-d926e194-93b1-4951-a425-024a145cfe12.png" height="400">
+
+<img src="https://user-images.githubusercontent.com/71345181/146392212-8689b68a-5bf0-4898-bcc1-72ca5f7ee5cc.png" height="400">
+
+<img src="https://user-images.githubusercontent.com/71345181/146392657-61f79dc2-923b-46eb-bc30-3b06cd076269.png" height="400">
+
+<img src="https://user-images.githubusercontent.com/71345181/146394172-a7bb40ae-fe7c-49b2-a3f7-6a890848f9bc.png" height="400">
+
+
+
+
                                                                                                                         
 ### Resources 
 [Scara robot](https://www.instructables.com/DIY-SINGLE-ARM-SCARA-ROBOT/)
