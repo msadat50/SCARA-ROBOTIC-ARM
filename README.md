@@ -26,6 +26,7 @@ Getting it to move using a prototyping shield
 
 ### Images
 <img src="Images/pictures/IMG_3686.jpg" width=400>
+5v will be unplugged, 9v battery will be plugged into correlating positive and negative collumns on far side of breadboad, wires from motor controller in positive and negative slots will be plugged into correlating positive and negative lanes in the same column of where the battery is plugged in.
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/stepper%20motor%20coding.PNG?raw=true"  width="400">
 <img src="https://content.instructables.com/ORIG/FCZ/SYJB/KILPM8M6/FCZSYJBKILPM8M6.jpg?auto=webp&frame=1&crop=3:2&width=800&height=1024&fit=bounds&md=8506bf2ea8b90868306c6c65ac28dbab"  width="400">
 <img src="https://content.instructables.com/ORIG/FFH/9C9W/KILPM8LX/FFH9C9WKILPM8LX.jpg?auto=webp&frame=1&crop=3:2&width=400&height=1024&fit=bounds&md=763fae9c38b3aaeae6f0ad4ef051c2bb"> 
