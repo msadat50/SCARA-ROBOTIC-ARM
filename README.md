@@ -1,5 +1,6 @@
 # SCARA-ROBOTIC-ARM
 
+## Description 
 We're creating a robotic arm that will write out letters.
 
 ### Link to Onshape Document
@@ -7,10 +8,11 @@ We're creating a robotic arm that will write out letters.
 
 ### What is the problem you are trying to solve?
 How to control the robot movement/ giving them commands? 
+How are we gonna work out the calculations? 
 
 ### What are the requirements for this assignment?
 
-The requirements for this project are arduino, stepper motor, servo, pen, wires, drive motor, Acrylic Sheet, battery pack with batteries, and bolts and nuts.
+The requirements for this project are arduino, stepper motor, maybe a servo, pen, wires, drive motor, Acrylic Sheet, battery pack with batteries, and bolts and nuts.
 
 2 stepper motors control each of the 2 arms, servo will control the height of the pen
 
@@ -30,9 +32,12 @@ Getting it to move using a prototyping shield
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/stepper%20motor%20coding.PNG?raw=true"  width="400">
 <img src="https://content.instructables.com/ORIG/FCZ/SYJB/KILPM8M6/FCZSYJBKILPM8M6.jpg?auto=webp&frame=1&crop=3:2&width=800&height=1024&fit=bounds&md=8506bf2ea8b90868306c6c65ac28dbab"  width="400">
 <img src="https://content.instructables.com/ORIG/FFH/9C9W/KILPM8LX/FFH9C9WKILPM8LX.jpg?auto=webp&frame=1&crop=3:2&width=400&height=1024&fit=bounds&md=763fae9c38b3aaeae6f0ad4ef051c2bb"> 
-<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/prototype%20planning.PNG?raw=true" width="400">
 
 [Image credit goes to instructables.com](https://www.instructables.com/DIY-SINGLE-ARM-SCARA-ROBOT/)
+
+### Robotic planning and assembly 
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/the%20robotic%20drawing%20.jpg?raw=true"  width="400">
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/robotic%20assembly%20pic.PNG?raw=true" width="500">
 
 ### Measurements
 <img src="https://user-images.githubusercontent.com/71345181/146391362-ea3e2e10-6ca4-4d4d-a343-76ab9676035a.png" height="400">
