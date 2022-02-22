@@ -25,6 +25,9 @@ Getting it to move using a prototyping shield
 
 <img src="https://user-images.githubusercontent.com/71345181/146027202-aab4cfcd-78ce-4a46-b694-29e1ab4fe6cd.gif" height="400">
 
+Both stepper motors moving together
+
+<img src="https://user-images.githubusercontent.com/71345181/155153721-64502991-f5ea-4115-a605-cf538d835669.gif" width="400">
 
 ### Images
 <img src="Images/pictures/IMG_3686.jpg" width=400>
@@ -32,6 +35,7 @@ Getting it to move using a prototyping shield
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/stepper%20motor%20coding.PNG?raw=true"  width="400">
 <img src="https://content.instructables.com/ORIG/FCZ/SYJB/KILPM8M6/FCZSYJBKILPM8M6.jpg?auto=webp&frame=1&crop=3:2&width=800&height=1024&fit=bounds&md=8506bf2ea8b90868306c6c65ac28dbab"  width="400">
 <img src="https://content.instructables.com/ORIG/FFH/9C9W/KILPM8LX/FFH9C9WKILPM8LX.jpg?auto=webp&frame=1&crop=3:2&width=400&height=1024&fit=bounds&md=763fae9c38b3aaeae6f0ad4ef051c2bb"> 
+
 
 [Image credit goes to instructables.com](https://www.instructables.com/DIY-SINGLE-ARM-SCARA-ROBOT/)
 
