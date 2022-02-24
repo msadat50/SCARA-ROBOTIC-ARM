@@ -54,6 +54,7 @@ Both stepper motors moving together
 
 <img src="https://user-images.githubusercontent.com/71345181/146394172-a7bb40ae-fe7c-49b2-a3f7-6a890848f9bc.png" height="400">
 
+<img src="https://user-images.githubusercontent.com/71345181/155543930-55754a53-759d-4d87-96b2-364e298564ac.png">
 
 
 
