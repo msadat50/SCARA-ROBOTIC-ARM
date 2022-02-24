@@ -1,0 +1,75 @@
+### attempting code 
+
+for step in range(120, 180):
+	motor.onestep(direction=stepper.BACKWARD)
+   	time.sleep(DELAY)
+
+
+
+
+
+if "mapped pot value" < steps:
+	for step in range ("mapped pot value" , steps):
+		motor.onestep()
+    		time.sleep(DELAY)
+if "mapped pot value" > steps:
+	for step in range ("mapped pot value" , steps):
+		motor.onestep(direction=stepper.BACKWARD)
+    		time.sleep(DELAY)
+        
+        
+        -----
+        
+        import time
+import board
+import digitalio
+import simpleio
+from adafruit_motor import stepper
+from analogio import AnalogIn
+
+
+DELAY = 0.02
+STEPS = 5000
+
+coils = (
+    digitalio.DigitalInOut(board.D4),  # A1
+    digitalio.DigitalInOut(board.D5),  # A2
+    digitalio.DigitalInOut(board.D6),  # B1
+    digitalio.DigitalInOut(board.D7),  # B2
+)
+
+coils2 = (
+    digitalio.DigitalInOut(board.D8),  # A1
+    digitalio.DigitalInOut(board.D9),  # A2
+    digitalio.DigitalInOut(board.D10),  # B1
+    digitalio.DigitalInOut(board.D11),  # B2
+)
+
+potentiometer = AnalogIn(board.A1)  # potentiometer connected to A1, power & ground
+
+for coil in coils:
+    coil.direction = digitalio.Direction.OUTPUT
+for coil in coils2:
+    coil.direction = digitalio.Direction.OUTPUT
+motor = stepper.StepperMotor(coils[0], coils[1], coils[2], coils[3], microsteps=None)
+motor2 = stepper.StepperMotor(
+    coils2[0], coils2[1], coils2[2], coils2[3], microsteps=None
+)
+
+while True:
+
+    print((potentiometer.value,))  # Display value (0-65535)
+    potValue = potentiometer.value
+    angle = simpleio.map_range(potValue, 0, 65535, 0, 200)
+
+    if angle < STEPS:
+        for step in range(angle, STEPS):
+            motor.onestep()
+            time.sleep(DELAY)
+    if angle > STEPS:
+        for step in range(angle, STEPS):
+            motor.onestep(direction=stepper.BACKWARD)
+            time.sleep(DELAY)
+
+#next step is to serial print the step and angle values
+
