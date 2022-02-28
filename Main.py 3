@@ -8,12 +8,12 @@ for step in range(120, 180):
 
 
 
-if "mapped pot value" < steps:
-	for step in range ("mapped pot value" , steps):
+if "mapped pot value" < STEPS:
+	for step in range ("mapped pot value" , STEPS):
 		motor.onestep()
     		time.sleep(DELAY)
-if "mapped pot value" > steps:
-	for step in range ("mapped pot value" , steps):
+if "mapped pot value" > STEPS:
+	for step in range ("mapped pot value" , STEPS):
 		motor.onestep(direction=stepper.BACKWARD)
     		time.sleep(DELAY)
         
