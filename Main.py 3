@@ -7,8 +7,9 @@ for step in range(120, 180):
 
 
 
+stepperAngle1 = simpleio.map_range(potValue, a, b, c, d)
 
-if "mapped pot value" < STEPS:
+if "stepperAngle1" < STEPS:
 	for step in range ("mapped pot value" , STEPS):
 		motor.onestep()
     		time.sleep(DELAY)
