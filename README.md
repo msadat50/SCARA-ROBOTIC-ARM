@@ -41,19 +41,8 @@ Both stepper motors moving together
 
 ### Robotic planning and assembly 
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/the%20robotic%20drawing%20.jpg?raw=true"  width="400">
-<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/robotic%20assembly%20pic.PNG?raw=true" width="500">
 
 ### Measurements
-<img src="https://user-images.githubusercontent.com/71345181/146391362-ea3e2e10-6ca4-4d4d-a343-76ab9676035a.png" height="400">
-
-<img src="https://user-images.githubusercontent.com/71345181/146391957-d926e194-93b1-4951-a425-024a145cfe12.png" height="400">
-
-<img src="https://user-images.githubusercontent.com/71345181/146392212-8689b68a-5bf0-4898-bcc1-72ca5f7ee5cc.png" height="400">
-
-<img src="https://user-images.githubusercontent.com/71345181/146392657-61f79dc2-923b-46eb-bc30-3b06cd076269.png" height="400">
-
-<img src="https://user-images.githubusercontent.com/71345181/146394172-a7bb40ae-fe7c-49b2-a3f7-6a890848f9bc.png" height="400">
-
 <img src="https://user-images.githubusercontent.com/71345181/155543930-55754a53-759d-4d87-96b2-364e298564ac.png">
 
 
