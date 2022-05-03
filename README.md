@@ -7,8 +7,8 @@ This is our Onshape link
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [Project prep questions](#Project_prep_questions)
-* [Pictures of our progress](#Progress_pictures)
 * [Proof of concept](#Proof_of_concept)
+* [Pictures of our progress](#Progress_pictures)
 * [How the code works](How_the_code_works)
 * [Final Reflections](#Final_Reflections)
 
@@ -57,16 +57,16 @@ At first we wanted to make our robot like this,but than ater we came up with a d
 
 [Image credit goes to instructables.com](https://www.instructables.com/DIY-SINGLE-ARM-SCARA-ROBOT/)
 
-### How_the_code_works
 
-### Description for code
+## Description for code/ How_the_code_works
 
 
 ### Robotic planning, assembly and measurements 
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/the%20robotic%20drawing%20.jpg?raw=true"  width="400">
 <img src="https://user-images.githubusercontent.com/71345181/155543930-55754a53-759d-4d87-96b2-364e298564ac.png">
 
-### Final Reflections
+
+## Final Reflections
 
 ### Coding Reflection- Malachi 
 
