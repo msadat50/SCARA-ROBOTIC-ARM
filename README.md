@@ -56,6 +56,17 @@ At first we wanted to make our robot like this,but than ater we came up with a d
 
 [Image credit goes to instructables.com](https://www.instructables.com/DIY-SINGLE-ARM-SCARA-ROBOT/)
 
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/protyping.PNG?raw=true" width="400">
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/robotic%20assembly%20pic.PNG?raw=true" width="400">
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/The%20side%20wall.PNG?raw=true" width="400">
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/inside%20the%20real%20box.PNG?raw=true" width="400">
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/closer%20picture%20of%20the%20arm.PNG?raw=true" width="400">
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/closer%20look%20from%20different%20side.PNG?raw=true" width="400">
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/arm%202.PNG?raw=true" width="400"> 
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/arm%201.PNG?raw=true" width="400">
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/The%20real%20box.PNG?raw=true" width="400">
+
+
 
 ## Description for code
 
