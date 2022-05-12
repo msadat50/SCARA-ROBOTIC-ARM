@@ -57,14 +57,17 @@ At first we wanted to make our robot like this,but than ater we came up with a d
 [Image credit goes to instructables.com](https://www.instructables.com/DIY-SINGLE-ARM-SCARA-ROBOT/)
 
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/protyping.PNG?raw=true" width="400">
+This is when I stated to prototyping, we wanted a really simple and easy design and so we came up with this.  
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/robotic%20assembly%20pic.PNG?raw=true" width="400">
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/The%20side%20wall.PNG?raw=true" width="400">
+When we started doing the actual design we really liked the design of our prototype, so we kept the design. These 2 picture is when we started doing the design. Mr H helped me design the wall easier and faster. All we did was that we created a rectangle on the top wall and then extrude it downwards 93mm and we did the same thing to all of the walls. At the end all we added was a laser joint and a T-slot joint to make the walls connect to eachother. 
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/The%20real%20box.PNG?raw=true" width="400">
+As time went on I realized that our design won't really work on how we want the robot to work, so I changed and added a lot of different things to our design. For example, if you look back at our design when we first started you will see that there is 2 motor but none of them will control the 2nd arm, so Mr H helped me came up with a solution where we put 2 motors on top of eachother using the   
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/inside%20the%20real%20box.PNG?raw=true" width="400">
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/closer%20picture%20of%20the%20arm.PNG?raw=true" width="400">
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/closer%20look%20from%20different%20side.PNG?raw=true" width="400">
-<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/arm%202.PNG?raw=true" width="400"> 
-<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/arm%201.PNG?raw=true" width="400">
-<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/The%20real%20box.PNG?raw=true" width="400">
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/arm%202.PNG?raw=true" width="100"> 
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/arm%201.PNG?raw=true" width="100">
 
 
 
