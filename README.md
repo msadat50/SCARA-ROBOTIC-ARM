@@ -93,6 +93,7 @@ This is the measurement of the stepper motor.
 ## Final_Reflections
 
 ### Coding Reflection- Malachi 
+## How code works and things you learned as you went on
 
 ### Cad Reflection- Mariam 
 In the beginning, I think I underestimated how many different parts of the box needed to change and extruded because they need to hold other parts. Thinking through all of this was a lot. Each time when we were finished there was always a differnt problem to slove thank fully Mr. H helped me get through all of it. Each time when we were done we had to double check to see if there was other problem.
