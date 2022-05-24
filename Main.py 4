@@ -24,7 +24,7 @@ coils2 = (
     digitalio.DigitalInOut(board.D10),  # B1
     digitalio.DigitalInOut(board.D11),  # B2
 )
-potentiometer = AnalogIn(board.A1)
+potentiometer1 = AnalogIn(board.A1)
 potentiometer2 = AnalogIn(board.A2)  # potentiometer connected to A1, power & ground
 
 for coil in coils:
@@ -32,64 +32,49 @@ for coil in coils:
 for coil in coils2:
     coil.direction = digitalio.Direction.OUTPUT
 motor = stepper.StepperMotor(coils[0], coils[1], coils[2], coils[3], microsteps=None)
-motor2 = stepper.StepperMotor(
-    coils2[0], coils2[1], coils2[2], coils2[3], microsteps=None
-)
-while True:
-    potValue = potentiometer.value
+motor2 = stepper.StepperMotor(coils2[0], coils2[1], coils2[2], coils2[3], microsteps=None)
 
+while True:
+    potValue = potentiometer1.value
+    potValue2 = potentiometer2.value
+    
     angle = int(simpleio.map_range(potValue, 0, 65535, 0, 200))
     print((angle))  # Display value (0-65535)
+    angle2 = int(simpleio.map_range(potValue2, 0, 65535, 0, 200))
+    print((angle2))  # Display value (0-65535)
 
-
- # read a button, if button is being pressed:
-        # move the stepper back (stepper onstep backwards), but DONT change the "step" value.
-
+    # read a button, if button is being pressed:
+    # move the stepper back (stepper onstep backwards), but DONT change the "step" value.
 
     if angle-1 > step:
         for step in range(step, angle, 1):
             motor.onestep()
             time.sleep(DELAY)
-            print("motor1:",step)
-
+            print("motor1:", step)
 
     if angle+1 < step:
         for step in range(step, angle, -1):
             motor.onestep(direction=stepper.BACKWARD)
             time.sleep(DELAY)
-            print("motor1:",step)
-            
+            print("motor1:", step)
+
     if angle is step:
         motor.release()
 
-    time.sleep(.1)
-
-
-while True:
-    potValue2 = potentiometer2.value
-
-    angle2 = int(simpleio.map_range(potValue2, 0, 65535, 0, 200))
-    print((angle2))  # Display value (0-65535)
-
-
- # read a button, if button is being pressed:
-        # move the stepper back (stepper onstep backwards), but DONT change the "step" value.
-
-
+  
     if angle2-1 > step2:
         for step2 in range(step2, angle2, 1):
             motor2.onestep()
             time.sleep(DELAY)
-            print("motor2:",step2)
-
+            print("motor2:", step2)
 
     if angle2+1 < step2:
         for step2 in range(step2, angle2, -1):
             motor2.onestep(direction=stepper.BACKWARD)
             time.sleep(DELAY)
-            print("motor2:",step2)
-            
-    if angle2 is step2:
+            print("motor2:", step2)
+
+    if angle2 is step:
         motor2.release()
 
     time.sleep(.1)
