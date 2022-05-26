@@ -93,11 +93,11 @@ This is the measurement of the stepper motor.
 ## Final_Reflections
 
 ### Coding Reflection- Malachi 
-## How code works and things you learned as you went on
+## How code works and things I learned 
 
 ### Cad Reflection- Mariam 
-In the beginning, I think I underestimated how many different parts of the box needed to change and extruded because they need to hold other parts. Thinking through all of this was a lot. Each time when we were finished there was always a differnt problem to slove thank fully Mr. H helped me get through all of it. Each time when we were done we had to double check to see if there was other problem.
-
+In the beginning, I think I underestimated how many different parts of the box needed to change and extruded because they need to hold other parts. Thinking through all of this was a lot. Each time when we were finished there was always a differnt problem to slove thank fully Mr. H helped me get through all of it. Each time when we were done we had to double check to see if there was other problem. 
+I learned that I should never leaser cut before having a teacher to check the whole project then after that I could leaser cut. I learned how to make a hole in onshape using the use tool. I learned how to use a leaser joint and a T-slot joint. I learned that the thinken tool can be really helpful espically when making a box. You can use the thinken tool to thinken the walls then when you use a leaser joint with a t-sloth joint the box walls will connect together like a puzzle.   
                                                                                                                         
 ### Resources 
 [Scara robot](https://www.instructables.com/DIY-SINGLE-ARM-SCARA-ROBOT/)
