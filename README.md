@@ -16,6 +16,9 @@ This is our Onshape link
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/The%20real%20box.PNG?raw=true" width="400">
 This is the final look of scara robotic arm.
 
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/71345181/171639417-cfe0f80e-0729-4804-aed5-8079ac9c10ad.gif)
+
+This is the short demonstration of both aspects of the arm in action
 
 
 ## Project_prep_questions
