@@ -18,8 +18,11 @@ This is the final look of scara robotic arm.
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/71345181/171639417-cfe0f80e-0729-4804-aed5-8079ac9c10ad.gif)
 
-This is the short demonstration of both aspects of the arm in action
+This is the short demonstration of both aspects of the arm in action before placing in the box
 
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/71345181/171652899-c8f4ed86-2d59-4550-9631-8130b0779165.gif)
+
+This is the final version with all the parts inside the box and working
 
 ## Project_prep_questions
 
