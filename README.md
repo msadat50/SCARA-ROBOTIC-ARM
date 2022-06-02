@@ -94,8 +94,8 @@ This is the measurement of the stepper motor.
 
 ## Final_Reflections
 
-### Coding Reflection- Malachi 
-## How code works and things I learned 
+### Coding Reflection- Malachi
+At first my main goal was to get one singular stepper motor continuously turning with no other goal in mind. I eventually moved onto having 2 move at once and these steps took the longest time as I took it very slow when it was really the simplest part of the code. I didn't have a lot of struggle with doing so, I eventually then moved onto learning how to use and measure a potentiometer. It took alot of help from Mr. H as well as sample code for the potentiometers which transfered ultimately to my final code. At the end I was able to get one potentiometer controlling one stepper motor, then with some workshopping and blatant issues I didn't notice I was albe to transfer that code to using 2 potentiometers which individually controlled each stepper motor. The process wasn't an immense challenge to where I was stuck and had no idea where to go next. It wasn't a super simple process though, I had never worked with stepper motors or potentiometers before so that was an obvious struggle. I learned how helpful using sample codes that may seem uselesss are super helpful for solving little problems in a lot of code. Also Mr. H amd gppg;e are 2 great resources.
 
 ### Cad Reflection- Mariam 
 In the beginning, I think I underestimated how many different parts of the box needed to change and extruded because they need to hold other parts. The box took the longest time to make because there was a lot of extruding and cutting holes. Thinking through all of this was a lot. Each time when we were finished there was always a differnt problem to slove thank fully Mr. H helped me get through all of it. Each time when we were done we had to double check to see if there was other problem. 
