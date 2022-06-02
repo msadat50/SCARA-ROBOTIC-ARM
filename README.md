@@ -1,5 +1,5 @@
 # SCARA-ROBOTIC-ARM
-A scara robotic arm is a arm that can do many different things such as drawing, playing game and lots of other fun things. We're creating a robotic arm that will write out letters. We wanted this because we wanted to try something challenging and different that we have never thought of making. Made by Mariam and Malachi 
+A scara robotic arm is a arm that can do many different things such as drawing, playing game and lots of other fun things. We're creating a robotic arm that will draw. We wanted this because we wanted to try something challenging and different that we have never thought of making. Made by Mariam and Malachi 
 
 This is our Onshape link 
 [Onshape Link](https://cvilleschools.onshape.com/documents/61e764f56fafef002ee169bb/w/db2ca47ead6d9adc5cc374b3/e/7a9d3a3022fa10662d8f42b8?renderMode=0&uiState=61b21e949aba4d645b01b5f5)
@@ -16,16 +16,10 @@ This is our Onshape link
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/The%20real%20box.PNG?raw=true" width="400">
 This is the final look of scara robotic arm.
 
-<img src="https://user-images.githubusercontent.com/71345181/171653266-1cb1bd91-5c35-435c-b448-28c15daa08a4.jpg" width="400">
-Final arm inside the box
-
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/71345181/171639417-cfe0f80e-0729-4804-aed5-8079ac9c10ad.gif)
 
-This is the short demonstration of both aspects of the arm in action before placing in the box
+This is the short demonstration of both aspects of the arm in action
 
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/71345181/171652899-c8f4ed86-2d59-4550-9631-8130b0779165.gif)
-
-This is the final version with all the parts inside the box and working
 
 ## Project_prep_questions
 
@@ -35,9 +29,9 @@ How are we gonna work out the calculations?
 
 ### What are the requirements for this assignment?
 
-The requirements for this project are arduino, stepper motor, maybe a servo, pen, wires, drive motor, Acrylic Sheet, battery pack with batteries, and bolts and nuts.
+The requirements for this project are arduino, stepper motor, a caster ball, pen, wires, drive motor, Acrylic Sheet, battery pack with batteries, and bolts and nuts.
 
-2 stepper motors control each of the 2 arms, servo will control the height of the pen
+2 stepper motors control each of the 2 arms, the caster ball will control the height of the arm
 
 ### Proof_of_concept
 
@@ -104,8 +98,8 @@ This is the measurement of the stepper motor.
 ## How code works and things I learned 
 
 ### Cad Reflection- Mariam 
-In the beginning, I think I underestimated how many different parts of the box needed to change and extruded because they need to hold other parts. Thinking through all of this was a lot. Each time when we were finished there was always a differnt problem to slove thank fully Mr. H helped me get through all of it. Each time when we were done we had to double check to see if there was other problem. 
-I learned that I should never leaser cut before having a teacher to check the whole project then after that I could leaser cut. I learned how to make a hole in onshape using the use tool. I learned how to use a leaser joint and a T-slot joint. I learned that the thinken tool can be really helpful espically when making a box. You can use the thinken tool to thinken the walls then when you use a leaser joint with a t-sloth joint the box walls will connect together like a puzzle. Over all I enjoyed doing the CAD it was really fun and I learned new things.  
+In the beginning, I think I underestimated how many different parts of the box needed to change and extruded because they need to hold other parts. The box took the longest time to make because there was a lot of extruding and cutting holes. Thinking through all of this was a lot. Each time when we were finished there was always a differnt problem to slove thank fully Mr. H helped me get through all of it. Each time when we were done we had to double check to see if there was other problem. 
+I learned that I should never leaser cut before having a teacher to check the whole project then after that I can leaser cut. I learned how to make a hole in onshape using the use tool. I learned how to use a leaser joint and a T-slot joint. I learned that the thinken tool can be really helpful espically when making a box. You can use the thinken tool to thinken the walls then when you use a leaser joint with a t-sloth joint the box walls will connect together like a puzzle. Over all I enjoyed doing the CAD it was really fun and I learned lots of different new things.  
                                                                                                                         
 ### Resources 
 [Scara robot](https://www.instructables.com/DIY-SINGLE-ARM-SCARA-ROBOT/)
