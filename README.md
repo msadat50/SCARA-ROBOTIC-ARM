@@ -11,8 +11,11 @@ This is our Onshape link
 * [Pictures of our progress](#Progress_pictures)
 * [Final Reflections](#Final_Reflections)
 
-### The final project pricture 
+### The final project pricture
+
+<img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/The%20real%20box.PNG?raw=true" width="400">
 This is the final look of scara robotic arm.
+
 
 
 ## Project_prep_questions
