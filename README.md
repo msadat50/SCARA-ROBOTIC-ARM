@@ -15,7 +15,7 @@ This is our Onshape link
 * [Pictures of our progress](#Progress_pictures)
 * [Final Reflections](#Final_Reflections)
 
-### The final project pricture
+### The final project pricture and wiring
 
 <img src="https://github.com/msadat50/SCARA-ROBOTIC-ARM/blob/main/Images/pictures/The%20real%20box.PNG?raw=true" width="400">
 This is the final look of scara robotic arm.
@@ -24,6 +24,8 @@ This is the final look of scara robotic arm.
 
 This is the short demonstration of both aspects of the arm in action
 
+<img src="https://user-images.githubusercontent.com/71345181/172205142-22d4db26-8c7b-488a-a80e-b9ce2c56d8e2.png" width="400">
+Final Wiring
 
 ## Project_prep_questions
 
