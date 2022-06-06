@@ -24,8 +24,8 @@ coils2 = (
     digitalio.DigitalInOut(board.D10),  # B1
     digitalio.DigitalInOut(board.D11),  # B2
 )
-potentiometer1 = AnalogIn(board.A1)
-potentiometer2 = AnalogIn(board.A2)  # potentiometer connected to A1, power & ground
+potentiometer1 = AnalogIn(board.A1)  # potentiometer connected to A1, power & ground
+potentiometer2 = AnalogIn(board.A2)  # potentiometer connected to A2, power & ground
 
 for coil in coils:
     coil.direction = digitalio.Direction.OUTPUT
@@ -43,8 +43,8 @@ while True:
     angle2 = int(simpleio.map_range(potValue2, 0, 65535, 0, 200))
     print((angle2))  # Display value (0-65535)
 
-    # read a button, if button is being pressed:
-    # move the stepper back (stepper onstep backwards), but DONT change the "step" value.
+    # read a potentiometer input, if input is > or < x :
+    # move the stepper back or forward depending on if pot value is more or less than +/-1 of the stepper value (stepper onstep backwards), but DONT change the "step" value.
 
     if angle-1 > step:
         for step in range(step, angle, 1):
