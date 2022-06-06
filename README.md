@@ -1,8 +1,12 @@
 # SCARA-ROBOTIC-ARM
 A scara robotic arm is a arm that can do many different things such as drawing, playing game and lots of other fun things. We're creating a robotic arm that will draw. We wanted this because we wanted to try something challenging and different that we have never thought of making. Made by Mariam and Malachi 
 
+
+[Project plannning](https://docs.google.com/document/d/18q5UjC7FsxY_L4OF8gpAkfut8QNd4xaJmoQvEK5Y6iM/edit#)
+
 This is our Onshape link 
 [Onshape Link](https://cvilleschools.onshape.com/documents/61e764f56fafef002ee169bb/w/db2ca47ead6d9adc5cc374b3/e/7a9d3a3022fa10662d8f42b8?renderMode=0&uiState=61b21e949aba4d645b01b5f5)
+ 
 
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
